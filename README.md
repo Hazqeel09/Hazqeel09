@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GetDoa](https://getdoa.com/)
 
-- 👯 I’m looking to collaborate on **game development (coming soon)**
+- 🤝 I’m looking to collaborate on **game development (coming soon)**
 
 - 👨‍💻 All of my projects are available at [https://hazqeelafyq.com/](https://hazqeelafyq.com/)
 
